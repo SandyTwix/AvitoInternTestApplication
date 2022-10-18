@@ -22,3 +22,5 @@
 
 ## Требования к передаче результатов:
 * Код должен быть выложен в git-репозиторий на github.com и отправлен нам.
+![Screenshot](screenshot1.png)
+![Screenshot](screenshot2.png)
