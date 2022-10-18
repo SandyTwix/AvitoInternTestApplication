@@ -6,6 +6,7 @@
 [Пример]([url](https://github.com/avito-tech/ios-trainee-problem-2021/blob/main/response_example.json)) возвращаемых данных.
 
 #Требование к реализации:
+
 Приложение работает на iOS 13 и выше
 Реализована поддержка iPhone и iPad
 Список отсортирован по алфавиту
