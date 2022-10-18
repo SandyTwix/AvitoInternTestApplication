@@ -24,5 +24,5 @@
 * Код должен быть выложен в git-репозиторий на github.com и отправлен нам.
 
 ## Скриншоты итоговой работы:
-![Screenshot](screenshot1.png)
 ![Screenshot](screenshot2.png)
+![Screenshot](screenshot1.png)
