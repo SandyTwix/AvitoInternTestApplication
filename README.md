@@ -1,2 +1,2 @@
-# AvitoInternTestApplication
-AvitoInternTestApplication
+# Тестовое задание на позицию стажёра в iOS
+# Общее описание задания
